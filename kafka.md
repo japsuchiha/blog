@@ -1,5 +1,5 @@
 
-# Intro to Apache Kafa
+# Intro to Apache Kafka
 May 31, 2020
 
 ### Streaming
