@@ -3,7 +3,7 @@
 May 31, 2020
 
 ### Streaming
-To understand how kafka lets first understand what is meant by streaming, because kafka is basically a distributed *streaming* platform.
+To understand how kafka works lets first understand what is meant by streaming, because kafka is basically a distributed *streaming* platform.
 
 ![streaming](./bog_assets/streaming.jpg)
 
